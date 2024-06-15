@@ -2,7 +2,7 @@
 
 Welcome to the Progress Steps Project! This project demonstrates the creation of progress steps using CSS, HTML, and JavaScript. Progress steps are commonly seen in multi-level forms, shopping carts, and similar applications.
 
-![Progress Steps](https://example.com/progress-steps.png)
+![Progress Steps](https://github.com/good-gis/progress-step/blob/main/demo/img.png)
 
 ## Features
 
